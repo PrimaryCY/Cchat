@@ -12,6 +12,7 @@ __pycache__/
 node_modules/
 local_setting.py
 package-lock.json
+.idea
 
 build/
 develop-eggs/
