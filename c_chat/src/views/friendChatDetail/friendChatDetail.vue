@@ -32,7 +32,10 @@
                 <img :src="user.portrait"/>
               </span>
 						</div>
-						<div class="author" :class="{right:item.from_user_id==user.id}">
+						<div v-if="item.from_user_id==user.id" class="author" :class="{right:item.from_user_id==user.id}">
+							<span class="web-font-min">{{user.userName}}</span>
+						</div>
+						<div v-else class="author" :class="{right:item.from_user_id==user.id}">
 							<span class="web-font-min">{{nowUser.userName}}</span>
 						</div>
 					</li>
