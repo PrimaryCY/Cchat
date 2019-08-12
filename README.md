@@ -9,16 +9,16 @@
 ---
 ### <font color=#ca0c16>项目展示
 <p align="center" style="height: 1200px;">
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170433.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170444.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170458.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170530.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170539.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170547.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170558.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170610.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170622.png?raw=true" width = "33%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170630.png?raw=true" width = "33%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170433.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170444.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170458.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170530.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170539.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170547.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170558.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170610.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170622.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170630.png?raw=true" width = "31%" height = "440" div align=right />
 </p>
 
 ---
