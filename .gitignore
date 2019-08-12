@@ -8,8 +8,11 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+
 node_modules/
 local_setting.py
+package-lock.json
+
 build/
 develop-eggs/
 dist/
