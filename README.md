@@ -18,7 +18,7 @@
 <img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170558.png?raw=true" width = "31%" height = "440" div align=right />
 <img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170610.png?raw=true" width = "31%" height = "440" div align=right />
 <img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170622.png?raw=true" width = "31%" height = "440" div align=right />
-<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170630.png?raw=true" width = "31%" height = "440" div align=right />
+<img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170630.png?raw=true" width = "31%" height = "440" />
 </p>
 
 ---
