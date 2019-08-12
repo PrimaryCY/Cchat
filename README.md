@@ -8,7 +8,7 @@
 
 ---
 ### <font color=#ca0c16>项目展示
-<p align="center">
+<p align="center" style="height: 1200px;">
 <img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170433.png?raw=true" width = "245" height = "400" div align=right />
 <img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170444.png?raw=true" width = "245" height = "400" div align=right />
 <img src="https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170458.png?raw=true" width = "245" height = "400" div align=right />
