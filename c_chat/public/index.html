@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!--    <meta name="viewport" content="width=device-width,initial-scale=1.0">-->
+    <!--防止用户缩小放大-->
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.png" >
+    <title>Cchat畅聊</title>
+    <script src="//at.alicdn.com/t/font_1306772_d6d7xg6kt3o.js" ></script>
+    <!--防止重复click-->
+    <script src="https://as.alipayobjects.com/g/component/fastclick/1.0.6/fastclick.js" ></script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+	  <script>
+      //禁止滑动出现本网站由XXX提供
+      document.body.addEventListener('touchmove', function(e) {
+        e.preventDefault();
+      }, {
+        passive: false
+      });
+    </script>
+  </body>
+</html>

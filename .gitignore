@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+node_modules/
+local_setting.py
 build/
 develop-eggs/
 dist/
