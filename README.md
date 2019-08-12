@@ -8,7 +8,7 @@
 
 ---
 ### <font color=#ca0c16>项目展示
-![avatar](https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170433.png?raw=true)
+![avatar](https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170433.png?raw=true){:height="100" width="100"}
 
 ![avatar](https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170433.png?raw=true)
 ![avatar](https://github.com/PrimaryCY/Cchat/blob/dev/c_chat_server/static/project/QQ%E6%88%AA%E5%9B%BE20190812170444.png?raw=true)
