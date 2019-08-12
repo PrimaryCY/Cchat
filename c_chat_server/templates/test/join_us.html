@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>join_us</title>
+</head>
+<i>数据总条数:{{ all_data.count() }}</i>
+<br>
+{% for city_name,city_data in data.items()  %}
+    <h1 >城市名称:{{ city_name }}</h1>
+    {% for date,date_data in city_data.items() %}
+
+    <table border="1" summary="{{ date }}" style="display: inline-block;margin: 10px">
+{#    <i >日期:{{ date }}</i>#}
+        <tr>
+            <td style="width: 100px">语言</td>
+            <td style="width: 100px">城市</td>
+            <td style="width: 100px">招聘人数</td>
+            <td style="width: 100px">日期</td>
+        </tr>
+        {% for i in date_data[:3] %}
+            <tr>
+        <td>{{ i['job'] }}</td>
+        <td>{{ i['city'] }}</td>
+        <td>{{ i['nums'] }}</td>
+        <td>{{ i['date'] }}</td>
+        </tr>
+            {% endfor %}
+        </table>
+    {% endfor %}
+{% endfor %}
+
+
+</body>
+</html>

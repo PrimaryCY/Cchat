@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="post" novalidate style="padding:0  50px">
+{% for field in form %}
+    <p>{{ field.label }}:{{ field }}{{ field.errors[0] }}</p>
+{% endfor %}
+</form>
+</body>
+
+</html>
