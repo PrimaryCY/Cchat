@@ -27,7 +27,7 @@ SQLAlchemy==1.3.3
 sqlalchemy-mptt==0.2.4
 SQLAlchemy-Utils==0.33.11
 urllib3==1.24.3
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 WTForms==2.2.1
 flask-login
 celery==4.3.0
