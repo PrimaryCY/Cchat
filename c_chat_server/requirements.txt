@@ -33,7 +33,7 @@ flask-login
 celery==4.3.0
 pymongo==3.8.0
 pandas==0.24.2
-cryptography==2.7
+cryptography==3.2
 msgpack==0.6.1
 eventlet==0.25.0
 xpinyin
