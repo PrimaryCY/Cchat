@@ -35,6 +35,6 @@ pymongo==3.8.0
 pandas==0.24.2
 cryptography==2.7
 msgpack==0.6.1
-eventlet==0.25.0
+eventlet==0.31.0
 xpinyin
 
