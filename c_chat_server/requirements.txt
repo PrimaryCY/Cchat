@@ -1,7 +1,7 @@
 alembic==1.0.10
 aniso8601==6.0.0
 blinker==1.4
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 Click==7.0
 Flask==1.0.2
